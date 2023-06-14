@@ -1,0 +1,7 @@
+.idea
+.homeybuild
+.github
+config
+.gitignore
+release.sh
+tsconfig.json
